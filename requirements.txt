@@ -1,0 +1,6 @@
+pandas==2.2.2
+numpy==1.26.4
+SQLAlchemy==2.0.30
+mysql-connector-python==8.3.0
+jupyter==1.0.0
+matplotlib==3.9.0
