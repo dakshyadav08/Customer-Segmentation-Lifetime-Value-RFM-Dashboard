@@ -113,7 +113,7 @@ These hypotheses guided the segmentation and analysis process.
 
 ## **Dashboard Overview**
 
-<img src="https://raw.githubusercontent.com/priyankadatacodes/customer-rfm-analysis/main/dashboard/rfm_analysis_dashboard.png" width="100%">
+<img src="rfm_analysis_dashboard.png" width="100%">
 
 The Power BI dashboard provides:
 - Customer segmentation overview  
