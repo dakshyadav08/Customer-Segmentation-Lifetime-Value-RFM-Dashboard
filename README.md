@@ -77,8 +77,6 @@ These hypotheses guided the segmentation and analysis process.
 
 ## **End-to-End Workflow**
 
-<img src="https://raw.githubusercontent.com/priyankadatacodes/customer-rfm-analysis/main/workflowdiagram.png" width="100%">
-
 **Workflow Used:**  
 **SQL → Python → SQL → Python → Power BI**
 
