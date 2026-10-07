@@ -181,9 +181,3 @@ Using **RFM + CLV analysis** allows businesses to shift from generic marketing t
 - **Jupyter Notebook** – EDA and modeling  
 
 ---
-
-## **Author**
-
-**Priyanka Lakra**  
-**Aspiring Data Analyst | SQL | Python | Power BI**  
-Focused on solving business problems using analytics.
